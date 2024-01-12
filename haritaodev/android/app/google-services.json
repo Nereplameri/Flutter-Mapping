@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984533617408",
+    "project_id": "mapstate-7f210",
+    "storage_bucket": "mapstate-7f210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984533617408:android:14dda0a28eaae7b887c1e5",
+        "android_client_info": {
+          "package_name": "com.example.haritaodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFYWNt3h4FcmnK2YDpyh3bfAZPDOoM9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
